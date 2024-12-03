@@ -1,3 +1,3 @@
 # GitOps With Actions Demo
 
-## GH Actions Run Number:
+GH Actions Run Number: 
